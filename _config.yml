@@ -17,7 +17,7 @@ name: Roger Bishop Jones
 title: RBJ at GitHub
 email: rbj@rbjones.com
 
-description: This site is an introduction to my github repositories and possibly the odd blog about where I've been and where I am going.
+description: An introduction to my github repositories.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rbjones.github.io" # the base hostname & protocol for your site, e.g. http://example.com
