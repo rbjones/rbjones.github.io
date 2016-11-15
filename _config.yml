@@ -19,13 +19,6 @@ email: rbj@rbjones.com
 
 description: This site is an introduction to my github repositories and possibly the odd blog about where I've been and where I am going.
 
-# Includes an icon in the footer for each username you enter
-footer-links: rbjones
-  dribbble:
-  github: rbjones/rbjones.github.io
-  instagram:
-  rss: rss # just type anything here for a working RSS icon
-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rbjones.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rogerbishopjones
@@ -56,7 +49,6 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
