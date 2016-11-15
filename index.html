@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Roger Bishop Jones
 ---
-      <section>
         
 <h3>
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>DA-Hol</h3>
@@ -17,18 +15,23 @@ title: Roger Bishop Jones
 <h3>
 <a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>www.rbjones.com</h3>
 
-<p>This is a github containing the build system for the web site www.rbjones.com, which contains most of the otput from my intellectual wanderings over the period from about 1994 to 2016.</p>
+<p>This is a git repo containing the build system for the web site www.rbjones.com, which contains most of the output from my intellectual wanderings over the period from about 1994 to 2016.</p>
 <p>I am now in the process of mothballing this site as I transition to working only in github hosted development projects.
   Once this is complete, the site will be purely of historical interest.
   </p>
 
- <h3>Blog Posts</h3>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<h3>Blog Posts</h3>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
 
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a></h3>
-      </section>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
