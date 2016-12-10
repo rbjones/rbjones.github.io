@@ -15,7 +15,7 @@ I don't really rate the philosophical movements which have taken place, but the 
 ### More Information
 
 I am doubling down on a philosophically motivated software and ecosystem development proposal at present - [DA-Hol](https://rbjones.github.io/DA-Hol).
-This, alongside a companion project I am considering (DA-Value), will probably be my last substantial undertakings, mainly because the ideas are big enough to last a lifetime, even at today's page of change.
+This, alongside a companion project I am considering (DA-Value), will probably be my last substantial undertakings, mainly because the ideas are big enough to last a lifetime, even at today's pace of change.
 
 ### Contact me
 
