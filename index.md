@@ -6,7 +6,7 @@ layout: default
 
 A project aiming at broad spectrum distributed application of automated and semi-automated deduction in Higher Order Logic.
 
-### [DA-Value](https://rbjones.github.com/DA-Value)
+### [DA-Value](https://github.com/rbjones/DA-Value)
 
 A sister project to DA-Hol, not yet under way, concerning the formulation and implementation of value systems.
 
