@@ -1,14 +1,21 @@
 ---
 layout: default
 ---
-        
-# [DA-Hol](https://rbjones.github.com/DA-Hol)
+# [StarDust](https://github.com/rbjones/StarDust)
+
+Stardust is top-cover for a small constellation of projects which together take aim at cosmic AI with a deductive core, of which the three main components are:
+
+- **[DA-Hol](https://rbjones.github.com/DA-Hol)**
 
 A project aiming at broad spectrum distributed application of automated and semi-automated deduction in Higher Order Logic.
 
-### [DA-Value](https://github.com/rbjones/DA-Value)
+- **[SensAct](https://github.com/rbjones/SensAct)**
 
-A sister project to DA-Hol, not yet under way, concerning the formulation and implementation of value systems.
+Concerned with empirical knowledge. how it relates to sense data, and how it mediates in real world effects through activators.
+
+- **[DA-Value](https://github.com/rbjones/DA-Value)**
+
+Concerning the formulation and implementation of value systems.
 
 ### [Xi](https://www.github.com/rbjones/Xi)
 
