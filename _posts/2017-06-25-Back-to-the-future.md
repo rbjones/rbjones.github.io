@@ -6,7 +6,7 @@ categories:
 ---
 
 I posted a very brief note with almost this title 15 months ago, saying I was back on the job.
-There was not much sign of action, and here I am again saying te same thing.
+There was not much sign of action, and here I am again saying the same thing.
 
 This time, at least, I will say a bit more in the blog, and, fingers crossed it may translate into action on my projects.
 
