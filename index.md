@@ -5,11 +5,11 @@ layout: default
 I am now mainly working on the following group of projects:
 # [StarDust](https://github.com/rbjones/StarDust)
 
-  Stardust is top-cover for a small constellation of projects which together take aim at cosmic AI with a deductive core, of which the three main components are:
+  Stardust is top-cover for a small constellation of projects which together take aim at cosmic cognition with a deductive core, of which the four main components are:
 
 - **[SynEpis](https://github.com/rbjones/SynEpis)**
 
-This repository covers the philosophical underpinnings which influence the aims and methods adopted in the other members of the constellation.
+This repository covers the philosophical (``synthetic epistemology'') underpinnings which influence the aims and methods adopted in the other members of the constellation.
 It is mainly concerned with declarative knowledge, universal abstract representations and their semantics, the construction of abstract models, logical truth and  formal derivation.
 
 - **[HoLoTruth](https://github.com/rbjones/HoLoTruth)**
@@ -19,7 +19,8 @@ It is mainly concerned with declarative knowledge, universal abstract representa
 
 - **[HoLoMod](https://github.com/rbjones/HoLoMod)**
 
-  Concerned with the use of HoLoTruth for modelling the empirical world. how it relates to sense data, and how it mediates in real world effects through activators.
+  Concerned with the use of HoLoTruth for modelling the empirical world. and engaging with it.
+  How it relates to sense data, and how it mediates in real world effects through activators.
   Also providing an approach to smart oracles for smart contracts.
 
 - **[HoLoVal](https://github.com/rbjones/HoLoVal)**
