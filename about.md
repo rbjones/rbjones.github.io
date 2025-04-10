@@ -19,4 +19,4 @@ This, alongside a companion project I am considering (DA-Value), will probably b
 
 ### Contact me
 
-[rbj@rbjones.com](mailto:rbj@rbjones.com)
+[rogerbishopjones@gmail.com](mailto:rogerbishopjones@gmail.com)
