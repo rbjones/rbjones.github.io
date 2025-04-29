@@ -7,7 +7,7 @@ I am now mainly working on the following group of projects:
 
   Stardust is top-cover for a small constellation of projects which together take aim at cosmic cognition with a deductive core, of which the four main components are:
 
-- **[SynEpis](https://github.com/rbjones/SynEpis)**
+- ** [SynEpis](SynEpis/index.md) [(SynEpis repo)](https://github.com/rbjones/SynEpis)  [SynEpis repo wiki](https://github.com/rbjones/SynEpis/wiki) **
 
 This repository covers the philosophical (``synthetic epistemology'') underpinnings which influence the aims and methods adopted in the other members of the constellation.
 It is mainly concerned with declarative knowledge, universal abstract representations and their semantics, the construction of abstract models, logical truth and  formal derivation.
