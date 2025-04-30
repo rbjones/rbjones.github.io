@@ -3,27 +3,28 @@ layout: default
 ---
 
 I am now mainly working on the following group of projects:
-# [StarDust](https://github.com/rbjones/StarDust)
+#  [StarDust](https://rbjones.github.io/StarDust) [repo](https://github.com/rbjones/StarDust)
 
-  Stardust is top-cover for a small constellation of projects which together take aim at cosmic cognition with a deductive core, of which the four main components are:
+  Stardust is a STEM fantasy which I am attempting to articulate and to realise.
+  It is being progressed as a small constellation of projects which together take aim at cosmic cognition with a deductive core, of which the four main components (aligned with Hume's "forks") are:
 
-- ** [SynEpis](SynEpis/index.md) [(SynEpis repo)](https://github.com/rbjones/SynEpis)  [SynEpis repo wiki](https://github.com/rbjones/SynEpis/wiki) **
+- ** [SynEpis](https://rbjones.github.io/StarDust) [repo](https://github.com/rbjones/SynEpis)  **
 
 This repository covers the philosophical (``synthetic epistemology'') underpinnings which influence the aims and methods adopted in the other members of the constellation.
 It is mainly concerned with declarative knowledge, universal abstract representations and their semantics, the construction of abstract models, logical truth and  formal derivation.
 
-- **[HoLoTruth](https://github.com/rbjones/HoLoTruth)**
+- **[HoLoTruth] (https://rbjones.github.io/HoLoTruth) [repo](https://github.com/rbjones/HoLoTruth) **
 
   New logical kernels for deduction in abstract Higher Order Logic designed for a central role in a hybrid cosmic intelligence.
   This project is up for re-scoping at the moment, retaining its central concern with abstract logical truth (or the representation of declarative knowledge), but with a broader conception of what that involves in terms of software support.
 
-- **[HoLoMod](https://github.com/rbjones/HoLoMod)**
+- **[HoLoMod] (https://rbjones.github.io/HoLoMod) [repo](https://github.com/rbjones/HoLoTruth) **
 
   Concerned with the use of HoLoTruth for modelling the empirical world. and engaging with it.
   How it relates to sense data, and how it mediates in real world effects through activators.
   Also providing an approach to smart oracles for smart contracts.
 
-- **[HoLoVal](https://github.com/rbjones/HoLoVal)**
+- **[HoLoVal] (https://rbjones.github.io/HoLoVal) [repo](https://github.com/rbjones/HoLoVal) **
 
   Concerning the formulation and implementation of value systems, using HoLoMod.
   I'm not expecting to see much movement here for some time.
