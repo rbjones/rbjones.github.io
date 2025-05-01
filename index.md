@@ -34,7 +34,7 @@ I also have a few older repos, at present static or moribund.:
   This is a fork of RobArthan's pp-contrib for me to add contributions to ProofPower.
   Nothing notable happened, and its not obvious that anything will happen, so it may well dissappear once I decide it serves no purpose.
   
-- www.rbjones.com [repo](https://www.github.com/rbjones/www.rbjones.com)
+- [www.rbjones.com](http://www.rbjones.com/) [repo](https://www.github.com/rbjones/www.rbjones.com)
 
   This is a git repo containing the build system for the web site www.rbjones.com, which contains most of the output from my intellectual wanderings over the period from about 1994 (and indeed, some things going back even as far as 1976).
 
