@@ -8,45 +8,35 @@ I am now mainly working on the following group of projects:
   Stardust is a STEM fantasy which I am attempting to articulate and to realise.
   It is being progressed as a small constellation of projects which together take aim at cosmic cognition with a deductive core, of which the four main components (aligned with Hume's "forks") are:
 
--  [SynEpis](https://rbjones.github.io/SynEpis) [repo](https://github.com/rbjones/SynEpis)
+-  SynEpis - providing philosophical underpinnings for the entire project, under the rubric of "synthetic epistemology" (in that guise focussed on the representation of knowledge) but also straying into architectural aspects of the engineering of that cosmic cognition, and in that way tying together the other three components of StarDust.
+d  formal derivation.
 
-This repository covers the philosophical (``synthetic epistemology'') underpinnings which influence the aims and methods adopted in the other members of the constellation.
-It is mainly concerned with declarative knowledge, universal abstract representations and their semantics, the construction of abstract models, logical truth and  formal derivation.
+- HoLoTruth - This is the part of the project focussed on the a-priori or logical knowledge which underpins all other declarative knowledge.
+It is here that the core problem of achieving real machine intelligence is addressed, all other components being concerned with its application.
+A central feature of the approach is the extension of the LCF (theorem proving) paragdigm to a broader computational approach to correct inference by verified algorithm.
+It is a code verification first approach to machine intelligence.
 
-- [HoLoTruth] (https://rbjones.github.io/HoLoTruth) [repo](https://github.com/rbjones/HoLoTruth) 
+- HoLoMod - Concerned with the use of HoLoTruth for modelling the empirical world. and engaging with it.
+Its central focus is on achieving a general design and build capability, in which the use of formal models enables the engineering of real world systems meeting known requirements and connection to agentic capabilities and the effects of smart contracting enable those real world system designs to be materialised.
 
-  New logical kernels for deduction in abstract Higher Order Logic designed for a central role in a hybrid cosmic intelligence.
-  This project is up for re-scoping at the moment, retaining its central concern with abstract logical truth (or the representation of declarative knowledge), but with a broader conception of what that involves in terms of software support.
+- HoLoVal - all the other components of the system (except possibly some parts of the philosophising) are purely instrumental in character.
+This is the one where purpose and value are considered.
 
-- [HoLoMod] (https://rbjones.github.io/HoLoMod) [repo](https://github.com/rbjones/HoLoTruth) 
-
-  Concerned with the use of HoLoTruth for modelling the empirical world. and engaging with it.
-  How it relates to sense data, and how it mediates in real world effects through activators.
-  Also providing an approach to smart oracles for smart contracts.
-
-- [HoLoVal] (https://rbjones.github.io/HoLoVal) [repo](https://github.com/rbjones/HoLoVal)
-
-  Concerning the formulation and implementation of value systems, using HoLoMod.
-  I'm not expecting to see much movement here for some time.
-
-And I have a few older repos, at present static or moribund.:
+I also have a few older repos, at present static or moribund.:
 
 - [Xi](https://www.github.com/rbjones/Xi)
 
-  This is a place for me to explore the application of Deep Learning to theorem proving, and various other related matters.
-  About to be repurposed.
+  This was a place for me to explore the application of Deep Learning to theorem proving, and various other related matters.
+  About to be repurposed as a repository for my ancient collections of explorations of various topics using ProofPower HOL and less formal philosophical essays, scribblings and notes.
 
 - [pp-contrib](https://www.github.com/rbjones/pp-contrib)
 
   This is a fork of RobArthan's pp-contrib for me to add contributions to ProofPower.
-  I started to rebuild one of my set theories here (as "ti") but didn't get very far.
-  I also set out more recently to put in an interface as Standard ML structures to various Deep Learning packages.
-  This connects with DA-Hol (and XI) but this bit might as well be a contrib to ProofPower.
-
+  Nothing notable happened, and its not obvious that anything will happen, so it may well dissappear once I decide it serves no purpose.
+  
 - [www.rbjones.com](https://www.github.com/rbjones/www.rbjones.com)
 
-  This is a git repo containing the build system for the web site www.rbjones.com, which contains most of the output from my intellectual wanderings over the period from about 1994 to 2016.
+  This is a git repo containing the build system for the web site www.rbjones.com, which contains most of the output from my intellectual wanderings over the period from about 1994 (and indeed, some things going back even as far as 1976).
 
-  I am now in the process of mothballing this site as I transition to working only in github hosted development projects.
+  I am now in the process of mothballing this site as I transition to working only in github hosted development projects, and move some parts of the site into other repos.
   Once this is complete, the site will be purely of historical interest.
-  I might also transfer the web site itself onto pages.github.io if I decide it should still be up.
